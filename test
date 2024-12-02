@@ -1,0 +1,4 @@
+Data Structures & Algorithm question (easy / medium difficulty), e.g. on Dynamic Programming or Arrays. Example: https://leetcode.com/problems/k-diff-pairs-in-an-array/
+
+API interaction: make a REST API call and parse JSON result and process that data (e.g. output max value). 
+The data may be a string and contain “$”, “,” and “.”. May need to paginate the calls. Use “requests” library in Python.
